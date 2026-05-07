@@ -19,7 +19,7 @@
 
 ## About me
 
-16+ years building software — the last 8 specialized in designing and operating **telecom platforms in production**. I architected and built the entire backend of **[Cuy Móvil](https://cuymovil.pe)**, a Peruvian MVNO running on Claro's network: integrated 15+ external systems, automated regulatory compliance, and scaled to **96,000+ active subscribers** — as the sole backend engineer.
+16+ years building software — the last 8 specialized in designing and operating **telecom platforms in production**. I architected and built the entire backend of **[Cuy Móvil](https://cuymovil.pe)**, a Peruvian MVNO running on Claro's network: integrated 15+ external systems, automated regulatory compliance, and scaled to **96,000+ active subscribers** — as the sole backend engineer, building the BSS that later supported a team of **17+ engineers**.
 
 Currently looking for a **remote Senior IC role** at a LatAm or global company.
 
@@ -31,10 +31,18 @@ Currently looking for a **remote Senior IC role** at a LatAm or global company.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks**
+
+![Sails.js](https://img.shields.io/badge/Sails.js-14ACC2?style=for-the-badge&logo=sailsdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Databases**
 
