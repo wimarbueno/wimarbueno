@@ -108,15 +108,3 @@ I design, deploy, and operate my own VPS infrastructure running multiple real pr
 [![get-distance-between-points](https://img.shields.io/badge/npm-get--distance--between--points-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/get-distance-between-points)
 
 Node.js package that calculates the geographic distance between two coordinates (lat/lng).
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Wilzon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wimarbueno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wimarbueno&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
