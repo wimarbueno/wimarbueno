@@ -19,7 +19,7 @@
 
 ## About me
 
-16+ years building software — the last 8 specialized in designing and operating **telecom platforms in production**. I architected and built the entire backend of **[Cuy Móvil](https://cuymovil.pe)**, a Peruvian MVNO running on Claro's network: integrated 15+ external systems, automated regulatory compliance, and scaled to **hundreds of thousands of active subscribers** — as the sole backend engineer, building the BSS that later supported a team of **17+ engineers**.
+16+ years building software — the last 8 specialized in designing and operating **telecom platforms in production**. I architected and built the entire backend of **[Cuy Móvil](https://cuy.pe)**, a Peruvian MVNO running on Claro's network: integrated 15+ external systems, automated regulatory compliance, and scaled to **hundreds of thousands of active subscribers** — as the sole backend engineer, building the BSS that later supported a team of **17+ engineers**.
 
 Currently looking for a **remote Senior IC role** at a LatAm or global company.
 
