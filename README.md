@@ -6,6 +6,8 @@
 
 **Lima, Perú 🇵🇪** — Remote · Available
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Senior+Backend+Engineer;MVNO+Builder+%7C+GCP+%7C+Node.js;Open+to+remote+roles)](https://git.io/typing-svg)
+
 *I'm more comfortable in Spanish — feel free to reach out in either language.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wilzonmb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilzonmb)
@@ -22,6 +24,47 @@
 16+ years building software — the last 8 specialized in designing and operating **telecom platforms in production**. I architected and built the entire backend of **[Cuy Móvil](https://cuy.pe)**, a Peruvian MVNO running on Claro's network: integrated 15+ external systems, automated regulatory compliance, and scaled to **hundreds of thousands of active subscribers** — as the sole backend engineer, building the BSS that later supported a team of **17+ engineers**.
 
 Currently looking for a **remote Senior IC role** at a LatAm or global company.
+
+---
+
+## < Who am I? />
+
+```javascript
+class WilzonMB {
+  constructor(visitor) {
+    this.user = "wimarbueno";
+    this.role = "Senior Backend Engineer";
+    console.log(`👋 Hello ${visitor}, welcome to ${this.user}'s GitHub!`);
+    console.log(`🚀 Built a Peruvian MVNO backend from scratch · ${this.role}`);
+    console.log(`🔧 Well-known: ${JSON.stringify(this.stack())}`);
+    console.log(`📚 Currently learning: ${this.learning()}`);
+  }
+
+  stack() {
+    return {
+      backend:    "Node.js, Python (FastAPI), PHP (Laravel), Go",
+      frameworks: "Sails.js, Vue.js, Django",
+      cloud:      "GCP, Docker, Nginx, Debian Linux, Firebase",
+      databases:  "PostgreSQL, Redis, BigQuery, Firestore, MySQL, MariaDB",
+      security:   "Fail2ban, UFW, SSH Hardening, Let's Encrypt",
+      protocols:  "REST, SOAP/WSDL, OAuth 2.0, JWT",
+      domain:     "Telecom/MVNO, Regulatory Systems, Payment Gateways"
+    };
+  }
+
+  learning() {
+    return ["Go (gRPC, Protobuffers)", "React", "Next.js", "Observability (Grafana, Prometheus)"];
+  }
+}
+
+const me = new WilzonMB("your_name");
+
+// Output:
+// 👋 Hello your_name, welcome to wimarbueno's GitHub!
+// 🚀 Built a Peruvian MVNO backend from scratch · Senior Backend Engineer
+// 🔧 Well-known: { backend: "Node.js, Python (FastAPI), PHP (Laravel), Go", frameworks: "Sails.js, Vue.js, Django", ... }
+// 📚 Currently learning: ["Go (gRPC, Protobuffers)", "React", "Next.js", "Observability (Grafana, Prometheus)"]
+```
 
 ---
 
