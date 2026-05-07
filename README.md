@@ -40,6 +40,7 @@ Currently looking for a **remote Senior IC role** at a LatAm or global company.
 **Frameworks**
 
 ![Sails.js](https://img.shields.io/badge/Sails.js-14ACC2?style=for-the-badge&logo=sailsdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
